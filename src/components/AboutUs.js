@@ -7,7 +7,7 @@ function AboutUs() {
     <ResponsiveAppBar />
         <div className="about-section">
         <h1>About Us</h1>
-        <p>We provide the best solvent sement goods in NCR.</p>
+        <p>We provide the best solvent sement PRODUCTS in NCR.</p>
         <p>If you are looking for the listed products please contact us.</p>
         <p>GST:07BBFPS0666H1ZH</p>
       </div>
